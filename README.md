@@ -1,6 +1,6 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# ELarson Education Project DATA 5100
 
-> A brief description of what the project does and its purpose.
+> The purpose of the project is to answer if educational outcomes in U.S. high schools are associated with area socioeconomic factors. Specifically, it explores if socioeconomic factors predict ACT and SAT scores. 
 
 ---
 
@@ -8,9 +8,9 @@
 
 Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
 
-- **Objective:** Clearly state the main goal of the project.
-- **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
-- **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
+- **Objective:** Determine if socioeconomic factors predict ACT and SAT scores. 
+- **Domain:** Social Science, Education
+- **Key Techniques:** Regression
 
 ---
 
@@ -28,7 +28,10 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** Link to the data source(s) 
+- **Source:**
+- CCD Data: https://nces.ed.gov/ccd/pubschuniv.asp
+- EdGap Data: https://www.edgap.org/#6/36.987/-106.705
+- GDP Data: https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas
 - **Description:** Brief overview of the dataset features, size, and format
 - **License:** (if applicable)
 
@@ -48,7 +51,7 @@ Include a short discussion of the findings and what they imply.
 
 ## Authors
 
-- Your Name - [@yourhandle](https://github.com/yourhandle)
+- Your Name - elarson5 (https://github.com/elarson5)
 
 ---
 
