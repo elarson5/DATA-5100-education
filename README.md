@@ -51,7 +51,7 @@ Include a short discussion of the findings and what they imply.
 
 ## Authors
 
-- Your Name - elarson5 (https://github.com/elarson5)
+- elarson5 (https://github.com/elarson5)
 
 ---
 
