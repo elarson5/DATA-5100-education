@@ -1,4 +1,4 @@
-# ELarson Education Project DATA 5100
+# Education Project DATA 5100
 
 > The purpose of the project is to answer if educational outcomes in U.S. high schools are associated with area socioeconomic factors. Specifically, it explores if socioeconomic factors predict ACT and SAT scores. 
 
