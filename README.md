@@ -49,7 +49,7 @@ The project demonstrated that socioeconomic factors, especially the percentage o
 
 ## Authors
 
-- Your Name - elarson5 (https://github.com/elarson5)
+- Emily Larson - elarson5 (https://github.com/elarson5)
 
 ---
 
