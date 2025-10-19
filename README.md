@@ -31,7 +31,6 @@ This project explored the impact of socioeconomic and regional predictors on U.S
 - **Source:**
 - CCD Data: https://nces.ed.gov/ccd/pubschuniv.asp
 - EdGap Data: https://www.edgap.org/#6/36.987/-106.705
-- GDP Data: https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas
 
 ---
 
