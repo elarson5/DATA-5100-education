@@ -32,19 +32,18 @@ This project explored the impact of socioeconomic and regional predictors on U.S
 - CCD Data: https://nces.ed.gov/ccd/pubschuniv.asp
 - EdGap Data: https://www.edgap.org/#6/36.987/-106.705
 - GDP Data: https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas
-- **Description:** Brief overview of the
 
 ---
 
 ## Analysis
 
-Describe the notebooks and/or scripts used to perform the analysis. Specify the order in which the code should be run to reproduce the results.
+The code for the project is in the notebook titled Education Project.
 
 ---
 
 ## Results
 
-Include a short discussion of the findings and what they imply.
+The project demonstrated that socioeconomic factors, especially the percentage of students eligible for free or reduced price lunch, are strong predictors of the average ACT score in U.S. high schools. The region of the high school has a small influence. While other factors like parental education and unemployment rate also showed significant relationships, variables such as median income and marital status of parents did not meaningfully improve the model. This suggests that school level measurements of student socioeconomic wellbeing are more effective at explaining academic outcomes than broader measurements.
 
 ---
 
@@ -54,14 +53,8 @@ Include a short discussion of the findings and what they imply.
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgements
 
-- Tools/libraries used
-- Tutorials or papers referenced
-- Inspiration or collaborators
+- Tools/libraries used: Jupyter Notebook
+- DATA 5100 lessons
+
